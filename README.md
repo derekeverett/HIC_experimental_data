@@ -1,5 +1,5 @@
 # HIC_experimental_data
-This repository is intended as a place to store experimental data relevant to Heavy Ion Physics. 
+This repository is intended as a place to access experimental data relevant to Heavy Ion Physics in a consistent format. 
 
 Data are stored in a directory format:
 
