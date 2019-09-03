@@ -1,4 +1,5 @@
 #http://arxiv.org/pdf/0808.2041v2.pdf
+# cuts ?
 # cent_low cent_high cent_mid val err
 70 80 75 1.09 0.1
 60 70 65 2.2 0.2	
