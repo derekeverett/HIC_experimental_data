@@ -1,6 +1,6 @@
 #https://arxiv.org/pdf/1805.04432.pdf
-# pT [?, ?] GeV ; |eta| < 0.5
-# cent_low cent_high cent_mid val err
+#pT [?, ?] GeV ; |eta| < 0.5
+#cent_low cent_high cent_mid val err
 0 2.5 1.25 1234.1 25.15
 2.5 5 3.75 1091.2 26.9
 5 7.5 6.25 983.8 25.13
