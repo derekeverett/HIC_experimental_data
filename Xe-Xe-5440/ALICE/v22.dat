@@ -1,6 +1,6 @@
 #https://arxiv.org/pdf/1805.01832.pdf
 #pT [0.2 3.0] GeV ; |eta| < 0.8
-#cent_low cent_high cent_mid val stat_err sys_error
+#cent_low cent_high cent_mid val stat_err sys_err
 0 5 2.5 0.0363604 0.000156536 0.000880731
 5 10 7.5 0.0483715 0.00014895 0.00108872
 10 20 15 0.0634264 0.000110319 0.00148198
