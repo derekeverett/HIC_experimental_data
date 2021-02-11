@@ -1,9 +1,9 @@
 # HIC_experimental_data
-This repository is intended as a place to access experimental data relevant to Heavy Ion Physics in a consistent format. 
+This repository is intended as a place to store experimental data relevant to Heavy Ion Physics in a consistent format. 
 
 Data are stored in a directory format:
 
-The top level directory is the Experimental System, named according to `<Projectilve>-<Target>-<$\sqrt{s}$[GeV]>` 
+The top level directory is the Experimental System, named according to `<Projective>-<Target>-<$\sqrt{s}$[GeV]>` 
 
 e.g. Pb Pb collisions at $\sqrt{s} = 2.76$ TeV are stored in a folder named `Pb-Pb-2760`
 
